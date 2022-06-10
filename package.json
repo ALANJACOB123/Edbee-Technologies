@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "google-meet-api": "^1.0.0",
+    "passport": "^0.5.2",
+    "passport-google-oauth20": "^2.0.0"
+  },
+  "name": "google-meeting-links-main",
+  "description": "",
+  "version": "1.0.0",
+  "main": "Final Merged code.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node FinalMergedCode"
+  },
+  "author": "",
+  "license": "ISC"
+}
